@@ -13,9 +13,9 @@
     --fw-reg: 300;
     --fw-bold: 900;
     
-    --clr-light: #E2B6CF;
-    --clr-dark: #054A91;
-    --clr-accent: #588B8B;
+    --clr-light: #FFCA3A;
+    --clr-dark: #59114D;
+    --clr-accent: #686963;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -478,5 +478,5 @@ header {
 }
 
 @media (max-width: 599px) {
-    
+
 }
